@@ -22,6 +22,10 @@ public class MyCalc {
 	{
 		return a%b;
 	}
+	public int newTEST(int a, int b)
+	{
+		return a%b;
+	}
 	public void branch()
 	{
 		System.out.println("Hello from Master Branch");
